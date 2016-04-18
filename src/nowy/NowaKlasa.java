@@ -10,5 +10,5 @@ package nowy;
  * @author Monika
  */
 public class NowaKlasa {
-    
+    String str;
 }
