@@ -11,4 +11,5 @@ package testgit;
  */
 public class NewClass {
     int costam;
+    long abc;
 }
