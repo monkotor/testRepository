@@ -1,1 +1,7 @@
 /build/
+/nbproject/project.properties
+/nbproject/genfiles.properties
+/nbproject/project.xml
+/nbproject/build-impl.xml
+/build.xml
+/manifest.mf
