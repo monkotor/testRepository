@@ -11,4 +11,5 @@ package nowy;
  */
 public class NowaKlasa {
     String str;
+    int i;
 }
