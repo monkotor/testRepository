@@ -10,5 +10,5 @@ package testgit;
  * @author Monika
  */
 public class NewClass {
-    
+    int costam;
 }
